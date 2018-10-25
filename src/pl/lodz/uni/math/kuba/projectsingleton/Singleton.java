@@ -14,6 +14,7 @@ public class Singleton {
     }
 
     public void getSomeThing(){
+
         System.out.println("I am here....");
     }
 
